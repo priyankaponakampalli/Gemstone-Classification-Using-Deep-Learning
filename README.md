@@ -39,3 +39,17 @@ The experimental results demonstrate that pretrained deep learning architectures
 ## Future Work
 
 Future improvements may include larger gemstone datasets, advanced data augmentation techniques, ensemble learning approaches, and real-time gemstone recognition systems.
+## Model Comparison
+
+![Model Comparison](model_comparison.png)
+## Validation Accuracy
+
+![Validation Accuracy](val_accuracy.png)
+
+## Validation Loss
+
+![Validation Loss](val_loss.png)
+
+## ResNet50V2 Training vs Validation Accuracy
+
+![ResNet Training vs Validation](resnet.png)
